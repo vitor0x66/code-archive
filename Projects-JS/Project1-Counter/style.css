@@ -1,0 +1,23 @@
+#title{
+    font-size: 55px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+#num{
+    font-size: 90px;
+    font-family: 'Gill Sans','Trebuchet MS', sans-serif;
+    text-align: center;
+    font-weight: 800;
+}
+#div{
+    text-align: center;
+}
+.button{
+    padding: 10px;
+    font-size: 34px;
+    background-color: tomato;
+    border-radius: 7px;
+}
+.button:hover{
+    background-color: red;
+}

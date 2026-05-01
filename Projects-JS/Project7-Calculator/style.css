@@ -1,0 +1,30 @@
+body{
+    background-color: slategrey;
+}
+#div1{
+    display:block ;
+    background-color: lightcyan;
+    align-content: center;
+    text-align: center;
+    padding: 7%;
+    width: 200px;
+    height: 350px;
+    margin: auto;
+    top: 50%;
+    bottom: 50%;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+#div2{
+    background-color: slategray;
+    max-height: 50px;
+}
+#visor{
+padding: 4%;
+}
+button{
+    font-size: 25px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}

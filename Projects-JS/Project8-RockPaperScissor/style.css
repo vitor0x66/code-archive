@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(74, 173, 235);
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: 45px;
+    justify-content: center;
+    text-align: center;
+    margin: 45px;
+}
+#buttoncontainer{
+    display: flex;
+}
+.button{
+    font-size: 75px;
+    background-color: blue;
+    border: 8px solid black;
+    border-radius: 75px;
+    width: fit-content;
+    height: fit-content;
+    padding: 15px;
+}
+.button:hover{
+    font-size: 75px;
+    background-color: rgb(117, 117, 243);
+    border: 8px solid black;
+    border-radius: 75px;
+    width: fit-content;
+    height: fit-content;
+    padding: 15px;
+}
+.play{
+    border-radius: 55px;
+    width: fit-content;
+    height: fit-content;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 15px;
+}
+#maindiv{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    border: 8px solid black;
+    margin: 25px auto;
+    width: fit-content;
+    border-radius: 25px;
+}
+h2{
+    font-family: Impact;
+    font-weight: 50;
+    font-size: 45px;
+    margin: 10px;
+    display: inline;
+}
+h3{
+    margin-top: 25px;
+    display: inline;
+}
+#pscore{
+    color: green;
+}
+#cscore{
+    color: red;
+}

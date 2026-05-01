@@ -1,0 +1,22 @@
+#body{
+    background-color: salmon;
+}
+#title{
+    font: 3.2em cursive;
+    font-weight: 600;
+    color: #050303;
+}
+#play{
+    font-size: 45px;
+    border-radius: 10px;
+    border-width: 4px;
+    border-color: red;
+    background-color: tomato;
+    font-family: monospace;
+}
+#play:hover{
+    background-color: yellowgreen;
+}
+#div1{
+    text-align: center;
+}

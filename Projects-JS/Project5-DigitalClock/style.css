@@ -1,0 +1,24 @@
+body{
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#div1{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+    font-size: 50px;
+}
+#time{
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 125px;
+}
